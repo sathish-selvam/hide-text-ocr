@@ -1,0 +1,15 @@
+{
+  "name": "hide-text-ocr",
+  "version": "1.0.0",
+  "description": "This project will open the image read the text/numbers on the images and blur those text/numbers using tesseract ocr engine using tesserect.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sathish Selvam",
+  "license": "MIT",
+  "dependencies": {
+    "opencv4nodejs": "^5.6.0",
+    "tesseract.js": "^2.1.5"
+  }
+}
